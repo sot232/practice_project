@@ -29,7 +29,7 @@ class BoxOffice(object):
            for entry in result.get('boxOfficeResult').get('dailyBoxOfficeList')
         ]
 
-# api_key = '' # you should get your own api key.
+# api_key = ''
 # box = BoxOffice(api_key)
 # movies = box.get_movies()
 # print(box.simplify(movies))
