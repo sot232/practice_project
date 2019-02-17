@@ -1,0 +1,7 @@
+.bothub-meta
+dist
+*.pyc
+*__pycache__*
+.git
+.vscode
+.pytest_cache
