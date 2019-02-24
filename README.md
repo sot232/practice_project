@@ -1,22 +1,22 @@
 This is a git repository for my personal project and some of my school projects. In most cases, I will not upload my code for the school projects.
 
-## Machine Learning
+# Machine Learning
 ### Machine Learning A-Z: Hands-On Python & R in Data Science
 I followed the instructions from https://www.udemy.com/machinelearning/learn/v4/overview. I haven't completed the course, but here is the things I comleted: Data Preprocessing(Missing Data, Categorical Data, and Feature Scaling), Linear Regression(Simple Linear Regression and Multinilear Regression). This activity is done in R and Python.
 (Code is not on Github.)
 Date: March 2017-February 2018
 
-## Google-Codelabs
+# Google-Codelabs
 Google Developers Codelabs provide a guided, tutorial, hands-on coding experience and cover a wide range of topics.
 https://codelabs.developers.google.com
 Date: Nov, 2018-Jan, 2019
 
-## Chatbot
+# Chatbot
 ### MovieFriendBot
 I created a chatbot as following the tutorial provided by Jeongsoo, Park. I used Telegram, Bothub Studio, and Python. The chatbot fulfills two purposes. It gives a list of popular movies and provides where a closest movie theater is. It should list movie showtimes at a specific theater, but I wasn't able to check this feature because I haven't been to Korea for a few years. This feature works if you use the chatbot service in Korea. Here is the link of the tutorial: http://static.wooridle.net/lectures/chatbot/
 Date: Feb, 2019
 
-## Game
+# Game
 ### Simple Basketball Game
 I made a simple basketball game by using Unity and C#. I followed the instruction from https://www.udemy.com/unity-game-developer/learn/v4/overview
 (Code is not on Github.)
@@ -25,7 +25,7 @@ Date: Sept, 2017
 ### Python Snake Game
 I made a simple snake game by using Python. I followed the instruction from https://www.udemy.com/python-game-development-creating-a-snake-game-from-scratch/learn/v4/overview
 
-## WebDev
+# WebDev
 ### Udemy-BootCamp
 I completed 60% of the course on Udemy. (https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview) I learned about Bootstrap, jQuery, Node JS, Express JS, and how to work with API's. This course was really fun and helpful!
 
@@ -33,7 +33,7 @@ I completed 60% of the course on Udemy. (https://www.udemy.com/the-web-developer
 I made really simple documents by using HTML and CSS. Do-It-HTML5 is a book. I did activities that the book assigned me to do.
 Date: March, 2017
 
-## Applied and Computational Mathematics
+# Applied and Computational Mathematics
 I am not allowed to share my code. I used Python and its libraries.  
 ### Linked List
 "In this lab, we introduce a basic data structure called a linked list and create a class to implement it."
