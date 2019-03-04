@@ -44,7 +44,7 @@ I made really simple documents by using HTML and CSS. Do-It-HTML5 is a book. I d
 Date: March, 2017
 
 # Applied and Computational Mathematics
-I am not allowed to share my code. I used Python and its libraries.  
+I am not allowed to share my code. I used Python and its libraries. I completed every lab that I list here.
 ### Linked List
 "In this lab, we introduce a basic data structure called a linked list and create a class to implement it."
 Chapter 1 on https://github.com/Foundations-of-Applied-Mathematics/Labs/raw/master/docs/Volume2.pdf
