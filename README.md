@@ -16,6 +16,10 @@ Date: Nov, 2018-Jan, 2019
 I created a chatbot as following the tutorial provided by Jeongsoo, Park. I used Telegram, Bothub Studio, and Python. The chatbot fulfills two purposes. It gives a list of popular movies and provides where a closest movie theater is. It should list movie showtimes at a specific theater, but I wasn't able to check this feature because I haven't been to Korea for a few years. This feature works if you use the chatbot service in Korea. Here is the link of the tutorial: http://static.wooridle.net/lectures/chatbot/
 Date: Feb, 2019
 
+### QuestionAboutChatBot
+Tutorial: https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e
+Date: Mar 3, 2019
+
 # Game
 ### Simple Basketball Game
 I made a simple basketball game by using Unity and C#. I followed the instruction from https://www.udemy.com/unity-game-developer/learn/v4/overview
