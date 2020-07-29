@@ -5,7 +5,7 @@ This is a git repository for my personal project and some of my school projects.
 I followed the instructions from https://www.udemy.com/machinelearning/learn/v4/overview. I haven't completed the course, but here are the things I completed: Data Preprocessing(Missing Data, Categorical Data, and Feature Scaling), Linear Regression(Simple Linear Regression and Multinilear Regression). This activity is done in R and Python.
 (Code is not on Github.)
 
-Date: Mar 2017 - Februa 2018
+Date: Mar 2017 - Feb 2018
 
 # Google-Codelabs
 Google Developers Codelabs provide a guided, tutorial, hands-on coding experience and cover a wide range of topics.
@@ -29,7 +29,7 @@ Date: Mar 3 2019
 I made a simple basketball game using Unity and C#. I followed the instruction from https://www.udemy.com/unity-game-developer/learn/v4/overview
 (Code is not on Github.)
 
-Date: Sep, 2017
+Date: Sep 2017
 
 ### Python Snake Game
 I made a simple snake game using Python. I followed the instruction from https://www.udemy.com/python-game-development-creating-a-snake-game-from-scratch/learn/v4/overview
@@ -41,10 +41,11 @@ I completed 60% of the course on Udemy. (https://www.udemy.com/the-web-developer
 ### Do-It-HTML5
 I made really simple documents by using HTML and CSS. Do-It-HTML5 is a book. I did activities that the book assigned me to do.
 
-Date: Mar, 2017
+Date: Mar 2017
 
 # Applied and Computational Mathematics
-I am not allowed to share my code. I used Python and its libraries. I completed every lab that I list here.
+I am not allowed to share my code. I used Python and its libraries. I completed every lab that I list here. Completed in 2017.
+
 ### Linked List
 "In this lab, we introduce a basic data structure called a linked list and create a class to implement it."
 Chapter 1 on https://github.com/Foundations-of-Applied-Mathematics/Labs/raw/master/docs/Volume2.pdf
